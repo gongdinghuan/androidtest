@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <WebView
+            android:id="@+id/WebView1"
+            android:layout_width="match_parent"
+            android:layout_height="503dp" />
+
+        <Button
+            android:id="@+id/bj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="北京" />
+
+        <Button
+            android:id="@+id/tj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="天津" />
+
+        <Button
+            android:id="@+id/sh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上海" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="1201dp"
+            android:layout_height="100dp"
+            android:text="天气查询"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+            android:textColorHighlight="#00F31010" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

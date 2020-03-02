@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/a8a8ee2fb296cc5a410ea8d8c1fa77f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ad131f70ed7be3d693007130c9e3676a/AndroidManifest.xml:2:1-11:12
+MERGED from [:openCVLibrary:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/5e35a42a68a451639eb58a6d1de4d2a8/AndroidManifest.xml:2:1-11:12
+MERGED from [:libuvccamera:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/4ad646b171c53110ff629b8cbdbd2916/AndroidManifest.xml:24:1-33:12
+MERGED from [:usbCameraCommon:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9a80fd76bb7fd153e10a3da39cf7021a/AndroidManifest.xml:24:1-32:12
+MERGED from [com.serenegiant:common:1.5.20] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/49a4160a84836ff8217092e85e0300a5/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9bcf0277507219196c5ae04ef6e49f44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/af50413ef02bd83b2c5a2195b59f0b8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/3bf8907aa4086e2248591d1d12b3c652/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/b2bb0e20984f894ae46a3068da3aa2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/994611abbd3e9d2426b9400513053a91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/f1671f9d37b19f2a64f40a5e3cf49191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9474befdb2205efaee2d62e7042b51de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/c6eac5f32cc71446803931d26a70981b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ba2abbbbbe2981229c9b679e8c0a2edb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/e3f5cdf435dde08bab6eb5bfa56b2e6f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/bc66e587e0ddeeee67d893325a7b8561/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ad131f70ed7be3d693007130c9e3676a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ad131f70ed7be3d693007130c9e3676a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:11:9-65
+activity#com.example.o0orick.camera.MainActivity
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/a8a8ee2fb296cc5a410ea8d8c1fa77f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/a8a8ee2fb296cc5a410ea8d8c1fa77f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ad131f70ed7be3d693007130c9e3676a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ad131f70ed7be3d693007130c9e3676a/AndroidManifest.xml:5:5-7:41
+MERGED from [:openCVLibrary:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/5e35a42a68a451639eb58a6d1de4d2a8/AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/5e35a42a68a451639eb58a6d1de4d2a8/AndroidManifest.xml:7:5-9:41
+MERGED from [:libuvccamera:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/4ad646b171c53110ff629b8cbdbd2916/AndroidManifest.xml:29:5-31:41
+MERGED from [:libuvccamera:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/4ad646b171c53110ff629b8cbdbd2916/AndroidManifest.xml:29:5-31:41
+MERGED from [:usbCameraCommon:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9a80fd76bb7fd153e10a3da39cf7021a/AndroidManifest.xml:28:5-30:41
+MERGED from [:usbCameraCommon:] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9a80fd76bb7fd153e10a3da39cf7021a/AndroidManifest.xml:28:5-30:41
+MERGED from [com.serenegiant:common:1.5.20] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/49a4160a84836ff8217092e85e0300a5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.serenegiant:common:1.5.20] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/49a4160a84836ff8217092e85e0300a5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9bcf0277507219196c5ae04ef6e49f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9bcf0277507219196c5ae04ef6e49f44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/af50413ef02bd83b2c5a2195b59f0b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/af50413ef02bd83b2c5a2195b59f0b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/3bf8907aa4086e2248591d1d12b3c652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/3bf8907aa4086e2248591d1d12b3c652/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/b2bb0e20984f894ae46a3068da3aa2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/b2bb0e20984f894ae46a3068da3aa2b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/994611abbd3e9d2426b9400513053a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/994611abbd3e9d2426b9400513053a91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/f1671f9d37b19f2a64f40a5e3cf49191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/f1671f9d37b19f2a64f40a5e3cf49191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9474befdb2205efaee2d62e7042b51de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/9474befdb2205efaee2d62e7042b51de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/c6eac5f32cc71446803931d26a70981b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/c6eac5f32cc71446803931d26a70981b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ba2abbbbbe2981229c9b679e8c0a2edb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/ba2abbbbbe2981229c9b679e8c0a2edb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/e3f5cdf435dde08bab6eb5bfa56b2e6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/e3f5cdf435dde08bab6eb5bfa56b2e6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/bc66e587e0ddeeee67d893325a7b8561/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/gongdinghuan/.gradle/caches/transforms-2/files-2.1/bc66e587e0ddeeee67d893325a7b8561/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gongdinghuan/Downloads/programs/android/UVCcamera-Opencv-master/app/src/main/AndroidManifest.xml
